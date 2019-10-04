@@ -17,7 +17,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  return modulo = Math.m(num1/num2)
+  return modulo = num1%num2
 end
 
 def square_root(num)
